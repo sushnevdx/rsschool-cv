@@ -32,14 +32,6 @@ Ended Industrial and economic college of Cherkasy state technological university
 
 Essential experience on specialization has not yet been.  I worked in small projects on a remote basis.
 
-## Education
-
-Ended Industrial and economic college of Cherkasy state technological university in city Smela (2013 – 2016).
-
-**Specializing**: Software development.
-
-Essential experience on specialization has not yet been.  I worked in small projects on a remote basis.
-
 ##  Languages 
 
 * Ukrainian — native
