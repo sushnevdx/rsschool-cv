@@ -13,3 +13,21 @@
 I`m Junior Developer. But I like programming and very quickly learn material.
 
 My goal is study direction of the FrontEnd developing and Java Script.
+
+## Skills
+
+* C/C++
+* PHP
+* MySQL
+* HTML/CSS
+* Bootstrap 4
+
+ **Softwares skill**: Microsoft Visual Studio, Borland C++ Builder, Adobe Photoshop, Adobe Illustrator, Adobe Indesign, Figma etc.
+
+## Education
+
+Ended Industrial and economic college of Cherkasy state technological university in city Smela (2013 – 2016).
+
+**Specializing**: Software development.
+
+Essential experience on specialization has not yet been.  I worked in small projects on a remote basis.
